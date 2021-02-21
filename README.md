@@ -22,13 +22,14 @@
 - (19.09 - 현재 ) 산학연계 SW 프로젝트 KNOWHOW팀 '인공지능 원가(손익/예산) 분석 및 예측 플랫폼' 개발 진행중
 
 
-## Languages ans Tools 👀
+## Languages and Tools 👀
 - Python, R
 - C++
 - Tensorflow
 - Pytorch
 - OpenCV
 - Django
+- HTML/CSS/JS
 - Spark
 
 ## Certificated
