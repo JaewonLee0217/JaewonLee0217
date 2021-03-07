@@ -9,7 +9,7 @@
 <br>
 
 ## Work experience ⚡
-- (16.03 - 현재) 광운대학교 컴퓨터 소프트웨어학과 재학
+- (16.03 - 현재) 광운대학교 [컴퓨터소프트웨어학과](https://cs.kw.ac.kr:501/main/main.php) 재학
 - (17.11 - 19.07) 전장전술정보체계운영병 'DB, SQL, 서버/사용자 관리'
 - (20.06 - 20.09) AIschool 8기 수료
 - (20.06 - 20.08) 공개 SW 개발자 대회 참가 '[Hand Pose Recognition](https://github.com/FLAG-OSS/Hand-Pose-Recognition)'프로그램 개발 
@@ -20,6 +20,9 @@
 - (21.02) 토이프로젝트 '[JW chatbot](https://github.com/JaewonLee0217/JW_chatbot)'프로그램 개발
 - (20.02 ) SW중심대학 공동해커톤 참가 '[Photo With AI](https://github.com/SWhack-PhotoWithAI/PWA_APP)' 프로그램 개발
 - (19.09 - 현재 ) 산학연계 SW 프로젝트 KNOWHOW팀 '인공지능 원가(손익/예산) 분석 및 예측 플랫폼' 개발 진행중
+
+## AIaas LAB
+-(21.03 - 현재) '[인공지능 서비스 연구실](https://sites.google.com/view/aiaas/main)' 학부 연구생 
 
 
 ## Languages and Tools 👀
