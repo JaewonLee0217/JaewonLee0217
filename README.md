@@ -19,7 +19,7 @@
 - (21.01) 한국통신학회 동계종합학술발표회 5G/AI기반 ICT융합서비스 아이디어 경진대회 "Salice" /res-우수상
 - (21.02) MZ 인공지능 경진대회 '의료 용어 질의응답(MediQuad) 시스템' 개발
 - (21.02) 토이프로젝트 '[JW chatbot](https://github.com/JaewonLee0217/JW_chatbot)'프로그램 개발
-- (21.04 ) SW중심대학 공동해커톤 참가 '[Photo With AI](https://github.com/SWhack-PhotoWithAI/PWA_APP)' 프로그램 개발
+- (21.02 ) SW중심대학 공동해커톤 참가 '[Photo With AI](https://github.com/SWhack-PhotoWithAI/PWA_APP)' 프로그램 개발
 
 
 ## AIaas LAB
