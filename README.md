@@ -15,11 +15,12 @@
 - (20.06 - 20.08) 공개 SW 개발자 대회 참가 '[Hand Pose Recognition](https://github.com/FLAG-OSS/Hand-Pose-Recognition)'프로그램 개발 
 - (20.08 )토이프로젝트 '[인공지능 애완동물 품종 분류기](https://petbreed.ml/)'프로그램 개발
 - (20.10 - 21.01) Google Developers 'Machine Learning Bootcamp' 1기 활동
+- (20.09 - 21.06 ) 산학연계 SW 프로젝트 KNOWHOW팀 '인공지능 원가(손익/예산) 분석 및 예측 플랫폼' 개발
 - (21.01) 한국통신학회 동계종합학술발표회 5G/AI기반 ICT융합서비스 아이디어 경진대회 "Salice" /res-우수상
 - (21.02) MZ 인공지능 경진대회 '의료 용어 질의응답(MediQuad) 시스템' 개발
 - (21.02) 토이프로젝트 '[JW chatbot](https://github.com/JaewonLee0217/JW_chatbot)'프로그램 개발
-- (20.02 ) SW중심대학 공동해커톤 참가 '[Photo With AI](https://github.com/SWhack-PhotoWithAI/PWA_APP)' 프로그램 개발
-- (19.09 - 현재 ) 산학연계 SW 프로젝트 KNOWHOW팀 '인공지능 원가(손익/예산) 분석 및 예측 플랫폼' 개발 진행중
+- (21.04 ) SW중심대학 공동해커톤 참가 '[Photo With AI](https://github.com/SWhack-PhotoWithAI/PWA_APP)' 프로그램 개발
+
 
 ## AIaas LAB
 -(21.03 - 현재) '[인공지능 서비스 연구실](https://sites.google.com/view/aiaas/main)' 학부 연구생 
