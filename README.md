@@ -11,6 +11,7 @@
 ## Work experience ⚡
 - (16.03 - 현재) 광운대학교 [컴퓨터소프트웨어학과](https://cs.kw.ac.kr:501/main/main.php) 재학
 - (17.11 - 19.07) 전장전술정보체계운영병 'DB, SQL, 서버/사용자 관리'
+- (19.09 - 19.12) C# based - [대학교 소개팅 프로그램](https://github.com/AppSoftware-Team/KW_DateProject) 개발
 - (20.06 - 20.09) AIschool 8기 수료
 - (20.06 - 20.08) 공개 SW 개발자 대회 참가 '[Hand Pose Recognition](https://github.com/FLAG-OSS/Hand-Pose-Recognition)'프로그램 개발 
 - (20.08 )토이프로젝트 '[인공지능 애완동물 품종 분류기](https://petbreed.ml/)'프로그램 개발
