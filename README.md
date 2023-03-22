@@ -23,8 +23,9 @@
 - (21.02 ) SW중심대학 공동해커톤 참가 '[Photo With AI](https://github.com/SWhack-PhotoWithAI/PWA_APP)' 프로그램 개발
 
 
-## AIaas LAB
--(21.03 - 현재) '[인공지능 서비스 연구실](https://sites.google.com/view/aiaas/main)' 학부 연구생 
+## AIaaS LAB
+-(21.03 - 22.02) '[인공지능 서비스 연구실](https://sites.google.com/view/aiaas/main)' 학부 연구생 
+-(22.03 - now) '[인공지능 서비스 연구실](https://sites.google.com/view/aiaas/main)' 대학원 석사과정 
 
 
 ## Languages and Tools 👀
