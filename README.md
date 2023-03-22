@@ -25,6 +25,7 @@
 
 ## AIaaS LAB
 -(21.03 - 22.02) '[인공지능 서비스 연구실](https://sites.google.com/view/aiaas/main)' 학부 연구생 
+
 -(22.03 - now) '[인공지능 서비스 연구실](https://sites.google.com/view/aiaas/main)' 대학원 석사과정 
 
 
