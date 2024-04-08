@@ -8,9 +8,35 @@
 
 <br>
 
-## Work experience ⚡
+## RESEARCH INTERESTS & ACTIVITIES 🌱
+­	­	- ML/DL Algorithms , Lightweight AI, Computer Vision, Predictive Analytics in Manufacturing
+­	- Research Interests I: ML/DL Algorithms
+∙	Development and Improvement of Algorithms for Anomaly Detection, Time Series Prediction, and Data Generation
+∙	Data Prediction and Interpretation through Graph Neural Network Models
+∙	Efficiency Improvement in Deep Neural Network Model Training through Curriculum Learning
+­	- Research Interests II: Lightweight AI
+∙	Exploration and Compression Techniques for Lightweight Models to Improve Model Inference Speed
+∙	Utilization and Improvement of Knowledge Distillation Algorithms for Compression Efficiency and Accuracy
+∙	Retraining Techniques for Model Calibration Performance Improvement
+­	-Research Interests III: Computer Vision
+∙	Pose Estimation and Recognition for Camera Application Services
+∙	Representation Learning for Image Recognition and Object Detection Model
+∙	Stain Normalization in Pathological Images and Detection of Tumor Objects 
+­	-Research Interests IV: Predictive Analytics in Manufacturing
+∙	Machine Learning-based Optimization: Shortest Path Search, Dynamic Vehicle Routing, Facility Location Problem
+∙	Reinforcement Learning for Efficient Vehicle Path Setting in AMHS(Automated Material Handling Systems)
+
+
+## HONORS & AWARDS ✨
+­	- Excellent Paper Award, Fall Conference Paper Competition, Korea Data Mining Society, 2023(Nov 7)
+­	- Excellent Paper Award, SAS Student Paper Competition, Korea Data Mining Society, 2023(Jun 23-24)
+­	- Excellent Award, Saltlux Hackathon Competition, 2022(Jan 18)
+­	- Excellent Award, 5G/AI-based ICT Convergence Service Idea Competition, Korean Institute of Communications and Information Sciences (KICS)
+
+
+## Experiences ⚡
 - (16.03 - 현재) 광운대학교 [컴퓨터소프트웨어학과](https://cs.kw.ac.kr:501/main/main.php) 재학
-- (17.11 - 19.07) 전장전술정보체계운영병 'DB, SQL, 서버/사용자 관리'
+- (17.11 - 19.07) ­	Operation and Management of Large-Scale Tactical Command System DB Server & Application Program, Republic of Korea Army, South Korea
 - (19.09 - 19.12) C# based - [대학교 소개팅 프로그램](https://github.com/AppSoftware-Team/KW_DateProject) 개발
 - (20.06 - 20.09) AIschool 8기 수료
 - (20.06 - 20.08) 공개 SW 개발자 대회 참가 '[Hand Pose Recognition](https://github.com/FLAG-OSS/Hand-Pose-Recognition)'프로그램 개발 
@@ -26,18 +52,16 @@
 ## AIaaS LAB
 -(21.03 - 22.02) '[인공지능 서비스 연구실](https://sites.google.com/view/aiaas/main)' 학부 연구생 
 
--(22.03 - now) '[인공지능 서비스 연구실](https://sites.google.com/view/aiaas/main)' 대학원 석사과정 
+-(22.03 - 24.02) '[인공지능 서비스 연구실](https://sites.google.com/view/aiaas/main)' 인공지능 대학원 석사과정
+
+-(24.02 - now) '[인공지능 서비스 연구실](https://sites.google.com/view/aiaas/main)' AIaaS Lab Reseacher
 
 
 ## Languages and Tools 👀
-- Python, R
-- C++
-- Tensorflow
-- Pytorch
-- OpenCV
-- Django
-- HTML/CSS/JS
-- Spark
+­	- Languages: Python (main), R, C++, C#
+­	- Tools: Pytorch, Tensorflow, GitHub, Django, MySQL
+
+
 
 ## Certificated
 - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/7TYT54GF6QTR)
