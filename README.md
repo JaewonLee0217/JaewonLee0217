@@ -16,22 +16,22 @@
     - Efficiency Improvement in Deep Neural Network Model Training through Curriculum Learning
 - Research Interests II: Lightweight AI
    - Exploration and Compression Techniques for Lightweight Models to Improve Model Inference Speed
-∙	Utilization and Improvement of Knowledge Distillation Algorithms for Compression Efficiency and Accuracy
-∙	Retraining Techniques for Model Calibration Performance Improvement
-­	-Research Interests III: Computer Vision
-∙	Pose Estimation and Recognition for Camera Application Services
-∙	Representation Learning for Image Recognition and Object Detection Model
-∙	Stain Normalization in Pathological Images and Detection of Tumor Objects 
-­	-Research Interests IV: Predictive Analytics in Manufacturing
-∙	Machine Learning-based Optimization: Shortest Path Search, Dynamic Vehicle Routing, Facility Location Problem
-∙	Reinforcement Learning for Efficient Vehicle Path Setting in AMHS(Automated Material Handling Systems)
+   - Utilization and Improvement of Knowledge Distillation Algorithms for Compression Efficiency and Accuracy
+   - Retraining Techniques for Model Calibration Performance Improvement
+- Research Interests III: Computer Vision
+   - Pose Estimation and Recognition for Camera Application Services
+   - Representation Learning for Image Recognition and Object Detection Model
+   - Stain Normalization in Pathological Images and Detection of Tumor Objects 
+- Research Interests IV: Predictive Analytics in Manufacturing
+   - Machine Learning-based Optimization: Shortest Path Search, Dynamic Vehicle Routing, Facility Location Problem
+   - Reinforcement Learning for Efficient Vehicle Path Setting in AMHS(Automated Material Handling Systems)
 
 
 ## HONORS & AWARDS ✨
-­	- Excellent Paper Award, Fall Conference Paper Competition, Korea Data Mining Society, 2023(Nov 7)
-­	- Excellent Paper Award, SAS Student Paper Competition, Korea Data Mining Society, 2023(Jun 23-24)
-­	- Excellent Award, Saltlux Hackathon Competition, 2022(Jan 18)
-­	- Excellent Award, 5G/AI-based ICT Convergence Service Idea Competition, Korean Institute of Communications and Information Sciences (KICS)
+- Excellent Paper Award, Fall Conference Paper Competition, Korea Data Mining Society, 2023(Nov 7)
+- Excellent Paper Award, SAS Student Paper Competition, Korea Data Mining Society, 2023(Jun 23-24)
+- Excellent Award, Saltlux Hackathon Competition, 2022(Jan 18)
+- Excellent Award, 5G/AI-based ICT Convergence Service Idea Competition, Korean Institute of Communications and Information Sciences (KICS)
 
 
 ## Experiences ⚡
