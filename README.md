@@ -11,7 +11,7 @@
 ## RESEARCH INTERESTS & ACTIVITIES 🌱
 - ML/DL Algorithms , Lightweight AI, Computer Vision, Predictive Analytics in Manufacturing
 - Research Interests I: ML/DL Algorithms
-∙	  Development and Improvement of Algorithms for Anomaly Detection, Time Series Prediction, and Data Generation
+    - Development and Improvement of Algorithms for Anomaly Detection, Time Series Prediction, and Data Generation
 ∙	  Data Prediction and Interpretation through Graph Neural Network Models
 ∙	  Efficiency Improvement in Deep Neural Network Model Training through Curriculum Learning
 ­	- Research Interests II: Lightweight AI
