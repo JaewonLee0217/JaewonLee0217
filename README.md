@@ -54,7 +54,7 @@
 
 -(22.03 - 24.02) '[인공지능 서비스 연구실](https://sites.google.com/view/aiaas/main)' 인공지능 대학원 석사과정
 
--(24.02 - now) '[인공지능 서비스 연구실](https://sites.google.com/view/aiaas/main)' AIaaS Lab Reseacher
+-(24.02 - now) '[인공지능 서비스 연구실](https://sites.google.com/view/aiaas/main)' AIaaS Lab Researcher
 
 
 ## Languages and Tools 👀
