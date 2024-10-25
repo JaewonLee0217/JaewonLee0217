@@ -16,7 +16,7 @@
 
 
 
-## RESEARCH INTERESTS & ACTIVITIES
+## Papers Publications & Presentations
 - International Journal/Conference Papers (+2)
     - Lee, J.W., Lee, S.M.*, Separable Contextual Graph Neural Networks to Identify Tailgating-Oriented Traffic Congestion. *Journal of* *Expert Systems with Applications (ESWA) (SCI, Q1, 2024, https://doi.org/10.1016/j.eswa.2024.124354)
     - Lee, J.W., Lee, S.M.*, Kang, J.Y., Progressive Curriculum Learning with Focal Loss for Knowledge Distillation. *The International Joint Conference on Artificial Intelligence (IJCAI) (Top-tier conference, submitted, 2024)
