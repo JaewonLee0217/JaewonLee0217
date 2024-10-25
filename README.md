@@ -8,6 +8,22 @@
 
 <br>
 
+## 연구 실적 요약
+- 1. ​AI/ML분야의 국외 Top 저널 게재 및 Top-tier 컨퍼런스 투고​
+- 2. ​학술대회 논문/발표 9건 (1저자: 6건, 2저자: 3건)​
+- 3. ​연구 개발 프로젝트 7건 ​
+- 4. ​수상 실적 4건 (학술대회 우수상 3건/ 해커톤 우수상 1건)​
+
+
+
+## RESEARCH INTERESTS & ACTIVITIES
+- International Journal/Conference Papers (+2)
+    - Lee, J.W., Lee, S.M.*, Separable Contextual Graph Neural Networks to Identify Tailgating-Oriented Traffic Congestion. *Journal of* *Expert Systems with Applications (ESWA) (SCI, Q1, 2024, https://doi.org/10.1016/j.eswa.2024.124354)
+    - Lee, J.W., Lee, S.M.*, Kang, J.Y., Progressive Curriculum Learning with Focal Loss for Knowledge Distillation. *The International Joint Conference on Artificial Intelligence (IJCAI) (Top-tier conference, submitted, 2024)
+
+- Domestic Scholarly Papers/Presentations (+9)
+
+
 ## RESEARCH INTERESTS & ACTIVITIES 🌱
 - ML/DL Algorithms , Lightweight AI, Computer Vision, Predictive Analytics in Manufacturing
 - Research Interests I: ML/DL Algorithms
